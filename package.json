@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "colors": "^1.4.0",
+    "discord.js-selfbot-v13": "2.13.4",
+    "mxtorie-utils": "^1.0.1",
+    "quick.db": "^9.1.6",
+    "write-file-atomic": "^5.0.0"
+  }
+}
